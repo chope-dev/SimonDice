@@ -1,1 +1,1 @@
-# Simon-dice
+# Simondice
